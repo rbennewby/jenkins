@@ -7,7 +7,7 @@ pipeline {
       stage("build") {
          
           steps {
-              echo 'building the application for myself'
+              echo 'This is fun building the application for myself'
 
           }
        }
