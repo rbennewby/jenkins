@@ -22,7 +22,7 @@ pipeline {
 
       stage("deploying application") {
           steps {
-            ECHO 'building the application'
+            ECHO 'building the application for the future'
 
        
              }
