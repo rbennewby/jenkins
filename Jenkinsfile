@@ -14,7 +14,7 @@ pipeline {
 
       stage("test") {
           steps {
-             echo 'testing the application for efficiency'  
+             echo 'I am testing the application for efficiency'  
 
           }
   
